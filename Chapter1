@@ -1,0 +1,16 @@
+Algorithms : Describe a finite, deterministc, and effective problem solving method that can be a computer program
+- Can describe procedure in natural language
+- Suitable for any programming language
+- Involve data structure (A way of organizing data)
+
+
+## 1.1
+  8 bit Max Integers:
+    111 1111(in binary) = 127(in decimal) ; for a signed integer
+    1111 1111(in binary) = 255(in decimal) ; for an unsigned integer
+    
+   i++ vs ++i
+   
+   i++ - i assigned first then incremented
+   ++i - i incremented then assigned
+   
